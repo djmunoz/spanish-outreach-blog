@@ -281,6 +281,11 @@ compress_html:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: splash
   # _posts
   - scope:
       path: ""
