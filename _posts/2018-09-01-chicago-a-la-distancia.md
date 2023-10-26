@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  Chicago a la Distancia
 date:   2018-09-01
 categories: [tierra] 
