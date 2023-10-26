@@ -3,7 +3,7 @@ layout: single
 title:  Los cálculos de Eratóstenes
 date:   2018-07-25 
 categories: [tierra] 
-published: false
+published: true
 ---
 
 Como sabian los griegos que la Tierra era esferica?
