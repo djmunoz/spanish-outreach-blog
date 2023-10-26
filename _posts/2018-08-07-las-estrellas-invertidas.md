@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  Las Estrellas de Cabeza
 date:   2018-08-07 
 categories: [tierra] 
