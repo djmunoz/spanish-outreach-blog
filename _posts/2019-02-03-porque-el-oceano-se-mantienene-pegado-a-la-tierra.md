@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  ¿Por qué el océano se mantiene pegado a la Tierra?
 date:   2019-02-03
 categories: [tierra] 
