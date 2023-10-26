@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  Punto de Fuga
 date:   2018-08-16 
 categories: [tierra] 
