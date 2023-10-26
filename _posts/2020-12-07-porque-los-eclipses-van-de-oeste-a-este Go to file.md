@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: singe
 title:  ¿Por qué los eclipses solares van de Oeste a Este?
 date:   2020-12-07
 categories: [tierra] 
